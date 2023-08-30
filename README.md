@@ -23,7 +23,7 @@
   target="_blank"></a>
  </div>
   
-   ![Snake animation](https://github.com/brualmeidaj/brualmeidaj/blob/output/github-contribution-grid-snake.svg)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brualmeidaj&bg_color=0000ff&color=9e4c98&line=9e4c98&point=400040&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 
 
