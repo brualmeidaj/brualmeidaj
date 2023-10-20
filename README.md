@@ -2,7 +2,7 @@
 
 <li> 📌 Currently working with Front-End and Automation </> </li>
 <br>
-<li> 🚀 Studying Javascript </li>
+<li> 🚀 Studying Laravel </li>
 <br>
 <div>
   
