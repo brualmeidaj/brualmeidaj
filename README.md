@@ -20,7 +20,7 @@
 </div>
 
  <div align="center">
-  <a href="https://instagram.com/brunadamasioo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+  <a href="https://instagram.com/brunalmeidaj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
   target="_blank"></a>
      <a href="mailto:contatobrunaalmeidaj13@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
   target="_blank"></a>
