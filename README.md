@@ -1,8 +1,6 @@
 ## Hello, I'm Bruna Almeida, welcome to my profile! 😄
 
-<li> 📌 Currently working with Front-End and Automation </> </li>
-<br>
-<li> 🚀 Studying Laravel </li>
+<li> 📌 Fullstack Developer </> </li>
 <br>
 <div>
   
