@@ -1,62 +1,67 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=blue&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12&text=Bruna%20Almeida&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+
+<br>
+
+[![Gmail](https://img.shields.io/badge/-contatobrunaalmeidaj13@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:contatobrunaalmeidaj13@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/bruna-almeida-de-jesus-519022222)
+[![Instagram](https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/brunalmeidaj)
+
 </div>
 
-<img align="center" alt="" src="./src/header-gif.gif">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&width=100%"/>
 
-#
+### Sobre
 
-<li> 📌 Fullstack Developer </> </li>
-  
-#
+Desenvolvedora fullstack com atuação de ponta a ponta - arquitetura de back-end, integrações e construção de interfaces. Foco principal em **Laravel/PHP** no servidor e **Angular** no cliente, com experiência em ambientes containerizados.
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+```text
+const dev = {
+  role: "Fullstack Developer",
+  stack: ["PHP", "Laravel", "Angular", "MySQL", "Docker"],
+  focus: "back-end sólido + integrações escaláveis"
+};
+```
 
-<h3 align="left">Connect with me!</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&width=100%"/>
 
-[![E-mail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=FFF&color:FFF)](mailto:contatobrunaalmeidaj13@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFF&color:FFF)](https://www.linkedin.com/in/bruna-almeida-de-jesus-519022222)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFF&color:FFF)](https://instagram.com/brunalmeidaj)
+### Tech Stack
 
+<div align="center">
 
-<h3 align="left">My Stack ~</h3>
+**Linguagens & Frameworks**
+<br>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="25" alt="react logo"  />
-  <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" alt="react logo"  />
-  <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
+<br>
+
+**Dados & Infraestrutura**
+<br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
 
-#
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&width=100%"/>
 
-<!-- <div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=brualmeidaj&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
+<div align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=brualmeidaj&border_radius=8&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&border=30363D"/>
+</div>
 
-  <a href="https://github.com/brualmeidaj/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brualmeidaj&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
-  </a>
-</div> -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&width=100%"/>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brualmeidaj/brualmeidaj/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brualmeidaj/brualmeidaj/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/brualmeidaj/brualmeidaj/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-#
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brualmeidaj/brualmeidaj/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brualmeidaj/brualmeidaj/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/brualmeidaj/brualmeidaj/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12&section=footer"/>
