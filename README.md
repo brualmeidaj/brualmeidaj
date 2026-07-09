@@ -54,8 +54,6 @@ const dev = {
   <img height="165" src="https://streak-stats.demolab.com?user=brualmeidaj&border_radius=8&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&border=30363D"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&width=100%"/>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brualmeidaj/brualmeidaj/output/github-contribution-grid-snake-dark.svg">
